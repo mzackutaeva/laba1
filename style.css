@@ -1,0 +1,66 @@
+body {background: url(https://sun9-34.userapi.com/impg/yXaZVpIvbNfXof1C1Zi4NdKRS1OdVXXhgLMNMw/DJkaPG13qu0.jpg?size=607x1080&quality=96&sign=29058979d160f1b76fb940fa010c4e77&type=album)}
+ul {
+    display: flex;
+    justify-content: center;
+}
+li {
+  list-style: none;
+}
+div {
+    text-align:center
+}
+.d02 {
+    margin-top:200px;
+    text-align:left;
+}
+a {
+    text-decoration: none;
+    margin-right: 10px;
+    color:darkgreen;
+    font-size: 18px;
+}
+a:hover {
+    color:yellow;
+}
+.menu {
+    background-color:yellowgreen;
+    height: 50px;
+    top: 0px;
+    position: fixed;
+    width: 100%;
+    left: 0px;
+    z-index: 20;
+}
+h1 {
+    margin-top: 60px;
+}
+.a1  {
+    float: center;
+    width: 400px;
+    height: 300px;
+    border: 2px solid green;
+}
+.a2  {
+    float: center;
+    width: 400px;
+    height: 300px;
+    border: 2px solid green;
+}
+.d1  {
+    float: center;
+    width: 400px;
+    height: 300px;
+    border: 2px solid green;
+}
+.d2  {
+    float: center;
+    width: 400px;
+    height: 300px;
+    border: 2px solid green;
+}
+.d3  {
+    float: center;
+    width: 400px;
+    height: 300px;
+    border: 2px solid green;
+}
